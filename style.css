@@ -3,3 +3,21 @@
     margin: auto;
     box-sizing: border-box;
 }
+body{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    flex-direction: column;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 64px;
+  
+    
+
+}
